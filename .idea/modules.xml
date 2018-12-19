@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/timeseries.iml" filepath="$PROJECT_DIR$/.idea/modules/timeseries.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled-build.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/timeseries-build.iml" filepath="$PROJECT_DIR$/.idea/modules/timeseries-build.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,13 @@
+/.metadata/
+Servers/
+.recommenders/
+Memos/
+.settings/
+target/
+.classpath
+*.class
+*.prefs
+*.project
+*.properties
+*.classpath
+pitrade/.gitignore

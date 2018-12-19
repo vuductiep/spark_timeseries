@@ -4,10 +4,10 @@
 	<info
 		organisation="timeseries"
 		module="timeseries_2.11"
-		revision="0.1"
+		revision="0.1.0-SNAPSHOT"
 		conf="provided"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20181213181944"/>
+		date="20181214173921"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>
